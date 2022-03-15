@@ -1,1 +1,1 @@
-clock: python trial.py
+worker: python combine.py
